@@ -11,7 +11,7 @@ Aplicativo Flutter para cardápio digital e pedidos de restaurante. O projeto in
 
 Requisitos: Flutter SDK instalado.
 
-\`\`\`bash
+```bash
 flutter pub get
 flutter run
-\`\`\`
+```
